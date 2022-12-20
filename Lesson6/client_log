@@ -1,0 +1,24 @@
+2022-12-20 11:18:47,190  - Функция create_presence_message вeрнула {'action': 'presence', 'user': {'account_name': 'Guest'}} 
+2022-12-20 11:18:47,191  - Функция create_presence_message  вызвана из функции main()        
+     
+2022-12-20 11:18:47,191  - Функция process_answer вeрнула 200: OK 
+2022-12-20 11:18:47,191  - Функция process_answer  вызвана из функции main()        
+     
+2022-12-20 11:20:16,574  - Функция create_presence_message вeрнула {'action': 'presence', 'user': {'account_name': 'Guest'}} 
+2022-12-20 11:20:16,574  - Функция create_presence_message  вызвана из функции main()        
+     
+2022-12-20 11:20:16,575  - Функция process_answer вeрнула 200: OK 
+2022-12-20 11:20:16,575  - Функция process_answer  вызвана из функции main()        
+     
+2022-12-20 11:30:38,318  - Функция create_presence_message вeрнула {'action': 'presence', 'user': {'account_name': 'Guest'}} 
+2022-12-20 11:30:38,318  - Функция create_presence_message  вызвана из функции main()        
+     
+2022-12-20 11:30:38,319  - Функция process_answer вeрнула 200: OK 
+2022-12-20 11:30:38,319  - Функция process_answer  вызвана из функции main()        
+     
+2022-12-20 14:01:41,947  - Функция create_presence_message вeрнула {'action': 'presence', 'user': {'account_name': 'Guest'}} 
+2022-12-20 14:01:41,947  - Функция create_presence_message  вызвана из функции main()        
+     
+2022-12-20 14:01:41,948  - Функция process_answer вeрнула 200: OK 
+2022-12-20 14:01:41,948  - Функция process_answer  вызвана из функции main()        
+     
